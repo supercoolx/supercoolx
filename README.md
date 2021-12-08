@@ -34,14 +34,13 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![BootStrap](https://img.shields.io/badge/-BootStrap-333333?style=flat&logo=bootstrap&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=v)
+![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
-![ReactNative](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
 
 ---
 ### ⚙️ &nbsp;GitHub Analytics
