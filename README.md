@@ -28,6 +28,7 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-333333?style=flat&logo=RubyonRails&logoColor=ff3333)
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-333333?style=flat&logo=CodeIgniter)
 ![JQuery](https://img.shields.io/badge/-JQuery-333333?style=flat&logo=jquery)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
