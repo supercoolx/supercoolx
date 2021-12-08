@@ -1,16 +1,59 @@
-### Hi there 👋
+<h1 align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi, I'm Dmytro <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
+<h3 align="center">I am a Web & Blockchain Developer from Ukraine. I'm working on Laravel, Django, Ruby on Rails, Solidity & Smart Contract.</h3>
 
-<!--
-**Dmytro0912/Dmytro0912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### <img src="https://komarev.com/ghpvc/?username=Dmytro0912&label=Profile%20views&color=0e75b6&style=flat" alt="manumanoj0010" /> ![GitHub followers](https://img.shields.io/github/followers/Dmytro0912) ![GitHub User's stars](https://img.shields.io/github/stars/Dmytro0912)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+- 👨‍💻 All of my information are available at [https://dmytro-kondratov.web.app/](https://dmytro-kondratov.web.app/)
+
+
+- 📫 How to reach me **dm.kondratov.git@gmail.com**
+
+---
+
+![Blockchain](https://img.shields.io/badge/-Blockchain-333333?style=flat&logo=bitcoin)
+![Ethereum](https://img.shields.io/badge/-Ethereum-333333?style=flat&logo=ethereum)
+![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity&logoColor=228475)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B)
+![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=Ruby&logoColor=ff3333)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel)
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-333333?style=flat&logo=RubyonRails&logoColor=ff3333)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-333333?style=flat&logo=CodeIgniter)
+![JQuery](https://img.shields.io/badge/-JQuery-333333?style=flat&logo=jquery)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![BootStrap](https://img.shields.io/badge/-BootStrap-333333?style=flat&logo=bootstrap&logoColor=1572B6)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
+![ReactNative](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
+
+---
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/Dmytro0912">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dmytro0912&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dmytro0912&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+----
+Credits: [Dmytro](https://github.com/Dmytro0912)
+
+Last Edited on: 3/09/2021
