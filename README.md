@@ -12,6 +12,9 @@
 
 - 📫 How to reach me **dm.kondratov.git@gmail.com**
 
+
+- 🔗 We can chat here [live:.cid.f7e685a9a7b74d86]()
+
 ---
 
 ![Blockchain](https://img.shields.io/badge/-Blockchain-333333?style=flat&logo=bitcoin)
@@ -56,4 +59,4 @@
 ----
 Credits: [Dmytro](https://github.com/Dmytro0912)
 
-Last Edited on: 3/09/2021
+Last Edited on: 12/09/2021
