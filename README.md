@@ -13,7 +13,7 @@
 - 📫 How to reach me **dm.kondratov.git@gmail.com**
 
 
-- 🔗 We can chat [Here](https://join.skype.com/invite/JgnJgVbSjVxb)
+- 🔗 We can chat [Here](https://join.skype.com/invite/Kskd12mCBozG)
 
 ---
 
