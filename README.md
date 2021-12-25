@@ -7,6 +7,10 @@
 
 ---
 
+<img src="sign.png"/>
+
+---
+
 - 👨‍💻 All of my information are available at [https://dmytro-kondratov.web.app/](https://dmytro-kondratov.web.app/)
 
 
