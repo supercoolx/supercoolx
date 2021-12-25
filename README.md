@@ -11,7 +11,7 @@
 
 ---
 
-- 👨‍💻 All of my information are available at [https://dmytro-kondratov.web.app/](https://dmytro-kondratov.web.app/)
+- 👨‍💻 All of my information are available at [https://dmytrok.herokuapp.com/](https://dmytrok.herokuapp.com/)
 
 
 - 📫 How to reach me **dm.kondratov.git@gmail.com**
