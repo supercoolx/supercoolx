@@ -7,7 +7,7 @@
 
 ---
 
-<img src="sign.png" style="background-color: white;"/>
+<img src="sign.png"/>
 
 ---
 
