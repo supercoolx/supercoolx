@@ -3,11 +3,11 @@
 
 ---
 
-### <img src="https://komarev.com/ghpvc/?username=Dmytro0912&label=Profile%20views&color=0e75b6&style=flat" alt="manumanoj0010" /> ![GitHub followers](https://img.shields.io/github/followers/Dmytro0912) ![GitHub User's stars](https://img.shields.io/github/stars/Dmytro0912)
+### <img src="https://komarev.com/ghpvc/?username=Dmytro0912&label=Profile%20views&color=0e75b6&style=flat" alt="Dmytro0912" /> ![GitHub followers](https://img.shields.io/github/followers/Dmytro0912) ![GitHub User's stars](https://img.shields.io/github/stars/Dmytro0912)
 
 ---
 
-<img src="sign.png"/>
+<img src="sign.png" style="background-color: white;"/>
 
 ---
 
