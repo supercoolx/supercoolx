@@ -1,6 +1,6 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi, I'm Dmytro <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi, I'm <a href="https://join.skype.com/invite/Kskd12mCBozG">Dmytro</a> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
 <h3 align="center">I am a Web & Blockchain Developer from Ukraine.</h3>
-<h3 align="center">I'm working on Laravel, Django, Ruby on Rails, Solidity & Smart Contract.</h3>
+<h3 align="center">I'm working on PHP, Python, Ruby, Solidity & Javascript.</h3>
 
 ---
 
@@ -12,7 +12,7 @@
 
 ---
 
-- 👨‍💻 All of my information are available at [https://dmytrok.herokuapp.com/](https://dmytrok.herokuapp.com/)
+- 👨‍💻 All of my information are available at **https://dmytrok.herokuapp.com**
 
 
 - 📫 How to reach me **dm.kondratov.git@gmail.com**
