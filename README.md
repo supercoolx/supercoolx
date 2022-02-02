@@ -16,8 +16,9 @@
 
 - 📫 How to reach me **dm.kondratov.git@gmail.com**
 
+- 🔗 My Discord: kondra#1517
 
-- 🔗 We can chat [Here](https://join.skype.com/invite/Kskd12mCBozG)
+- 🔗 Via [Skype](https://join.skype.com/invite/Kskd12mCBozG)
 
 ---
 
