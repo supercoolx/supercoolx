@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **dm.kondratov.git@gmail.com**
 
+- 🔗 My Telegram: @crawlernight
+
 - 🔗 My Discord: Airkondra#1517
 
 - 🔗 Via [Skype](https://join.skype.com/invite/Kskd12mCBozG)
