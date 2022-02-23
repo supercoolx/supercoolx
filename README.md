@@ -17,7 +17,7 @@
 
 - 🔗 My Telegram: @crawlernight
 
-- 🔗 My Discord: Airkondra#1517
+- 🔗 My Discord: Airkondra gorilla#1517
 
 - 🔗 Via [Skype](https://join.skype.com/invite/Kskd12mCBozG)
 
