@@ -3,10 +3,7 @@
 
 ---
 
-### ![Github Profile Watchers](https://komarev.com/ghpvc/?username=supercoolx&label=Profile%20views&color=0e75b6&style=flat) ![GitHub followers](https://img.shields.io/github/followers/supercoolx) ![GitHub User's stars](https://img.shields.io/github/stars/supercoolx)z
-
-
-<img src="sign.png"/>
+### ![Github Profile Watchers](https://komarev.com/ghpvc/?username=supercoolx&label=Profile%20views&color=0e75b6&style=flat) ![GitHub followers](https://img.shields.io/github/followers/supercoolx) ![GitHub User's stars](https://img.shields.io/github/stars/supercoolx)
 
 ---
 
