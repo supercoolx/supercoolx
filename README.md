@@ -1,9 +1,9 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi, I'm <a href="https://join.skype.com/invite/Kskd12mCBozG">Dmytro</a> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
-<h3 align="center">I am a Web & Blockchain Developer from Ukraine.</h3>
+<h1 align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi, there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
+<h3 align="center">I am a Web & Blockchain Developer with 5 experience.</h3>
 
 ---
 
-### ![Github Profile Watchers](https://komarev.com/ghpvc/?username=Dmytro0912&label=Profile%20views&color=0e75b6&style=flat) ![GitHub followers](https://img.shields.io/github/followers/Dmytro0912) ![GitHub User's stars](https://img.shields.io/github/stars/Dmytro0912)
+### ![Github Profile Watchers](https://komarev.com/ghpvc/?username=supercoolx&label=Profile%20views&color=0e75b6&style=flat) ![GitHub followers](https://img.shields.io/github/followers/supercoolx) ![GitHub User's stars](https://img.shields.io/github/stars/supercoolx)z
 
 
 <img src="sign.png"/>
@@ -56,13 +56,13 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/Dmytro0912">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dmytro0912&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dmytro0912&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/supercoolx">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=supercoolx&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=supercoolx&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 ----
-Credits: [Dmytro](https://github.com/Dmytro0912)
+Credits: [supercoolx](https://github.com/supercoolx)
 
 Last Edited on: 12/09/2021 
