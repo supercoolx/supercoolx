@@ -7,16 +7,13 @@
 
 ---
 
-- 👨‍💻 All of my information are available at **https://dmytrok.herokuapp.com**
-
-
-- 📫 How to reach me **dm.kondratov.git@gmail.com**
+- 📫 My Email: **dm.kondratov.git@gmail.com**
 
 - 🔗 My Telegram: @crawlernight
 
 - 🔗 My Discord: Airkondra gorilla#1517
 
-- 🔗 Via [Skype](https://join.skype.com/invite/Kskd12mCBozG)
+- 🔗 My Skype: [Join here](https://join.skype.com/invite/Kskd12mCBozG)
 
 ---
 
