@@ -34,7 +34,7 @@
 
 - 🔗 My Discord: airkondra#1517
 
-- 🔗 My Skype: [Join here](https://join.skype.com/invite/Kskd12mCBozG)
+- 🔗 My Skype: [Join here](https://join.skype.com/invite/GfTgpROchzA4)
 
 ---
 
