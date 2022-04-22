@@ -28,8 +28,6 @@
 
 ---
 
-- 📫 My Email: **dm.kondratov.git@gmail.com**
-
 - 🔗 My Telegram: [Join here](https://t.me/dmkondra)
 
 - 🔗 My Discord: airkondra#1517
