@@ -28,7 +28,7 @@
 
 ---
 
-- 🔗 My Telegram: [Join here](https://t.me/dmkondra)
+- 🔗 My Telegram: [@marcowongsg](https://t.me/marcowongsg) or [@leonscotken](https://t.me/leonscotken)
 
 - 🔗 My Discord: airkondra#1517
 
