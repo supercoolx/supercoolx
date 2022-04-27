@@ -28,7 +28,7 @@
 
 ---
 
-- 🔗 My Telegram: [@marcowongsg](https://t.me/marcowongsg) or [@leonscotken](https://t.me/leonscotken)
+- 🔗 My Telegram: [@fatalterry](https://t.me/fatalterry) or [@leonscotken](https://t.me/leonscotken)
 
 - 🔗 My Discord: airkondra#1517
 
