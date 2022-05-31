@@ -30,8 +30,6 @@
 
 - 🔗 My Telegram: [@marco_wong_sg](https://t.me/marco_wong_sg) or [@leonscotken](https://t.me/leonscotken)
 
-- 🔗 My Discord: airkondra#1517
-
 - 🔗 My Skype: [Join here](https://join.skype.com/invite/GfTgpROchzA4)
 
 ---
