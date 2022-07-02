@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my profile</h1>
+# My Telegram: [@fatal](https://t.me/fatalfu), Skype: [@Crypto](https://join.skype.com/invite/ynXw0ETpNLE1)
 
 ### ![Github Profile Watchers](https://komarev.com/ghpvc/?username=supercoolx&label=Profile%20views&color=0e75b6&style=flat) ![GitHub followers](https://img.shields.io/github/followers/supercoolx) ![GitHub User's stars](https://img.shields.io/github/stars/supercoolx)
 
