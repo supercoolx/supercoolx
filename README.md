@@ -28,7 +28,7 @@
 
 ---
 
-- 🔗 My Telegram: [@fatal](https://t.me/fatalfu) or [@leon](https://t.me/leonscotken)
+- 🔗 My Telegram: [@fatal](https://t.me/fatalfu)
 
 - 🔗 My Skype: [@leon](https://join.skype.com/invite/GfTgpROchzA4)
 
