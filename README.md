@@ -74,7 +74,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/supercoolx">
-  <img src="https://activity-graph.herokuapp.com/graph?username=supercoolx&bg_color=22222E&color=DDDD66&line=00FFFF&point=0000FF"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=supercoolx&bg_color=050F2C&color=DDDD66&line=00FFFF&point=0000FF"/>
 </a>
 </p>
 
