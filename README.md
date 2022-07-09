@@ -28,7 +28,7 @@
 
 ---
 
-- 🔗 Telegram: [@fatal_furry](https://t.me/fatal_furry)
+- 🔗 Telegram: [@fatal_furi](https://t.me/fatal_furi)
 
 - 🔗 Skype: [@leon](https://join.skype.com/invite/GfTgpROchzA4)
 
