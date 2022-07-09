@@ -28,7 +28,7 @@
 
 ---
 
-- 🔗 Telegram: [@fatalfu](https://t.me/fatalfu)
+- 🔗 Telegram: [@fatal_furry](https://t.me/fatal_furry)
 
 - 🔗 Skype: [@leon](https://join.skype.com/invite/GfTgpROchzA4)
 
@@ -70,11 +70,6 @@
 <a href="https://github.com/supercoolx">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=supercoolx&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=supercoolx&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-<p align="center">
-<a href="https://github.com/supercoolx">
-  <img src="https://activity-graph.herokuapp.com/graph?username=supercoolx&bg_color=050F2C&color=DDDD66&line=00FFFF&point=0000FF"/>
 </a>
 </p>
 
