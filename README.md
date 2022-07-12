@@ -67,10 +67,8 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/supercoolx">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=supercoolx&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=supercoolx&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=supercoolx&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="54.25%"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=supercoolx&layout=compact&langs_count=6&theme=algolia" width="45.25%"/>
 </p>
 
 ----
