@@ -31,7 +31,6 @@
 - 🔗 Telegram: [@fatal_furi](https://t.me/fatal_furi)
 
 - 🔗 Skype: [@leon](https://join.skype.com/invite/GfTgpROchzA4)
-- [![skype](./src/skype.svg)](https://badges.aleen42.com/src/skype.svg)
 
 ---
 
