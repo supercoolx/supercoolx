@@ -5,7 +5,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/supercoolx)
 &nbsp;&nbsp;&nbsp;
 [![Telegram](https://img.shields.io/badge/-Telegram-555555?style=flat&logo=telegram)](https://t.me/fatal_furi)
-[![Skype](https://img.shields.io/badge/-Skype-555555?style=flat&logo=skype)](https://join.skype.com/invite/GfTgpROchzA4)
+[![Skype](https://img.shields.io/badge/-Skype-555555?style=flat&logo=skype)](https://join.skype.com/invite/ynXw0ETpNLE1)
 
 ---
 
