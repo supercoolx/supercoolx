@@ -3,9 +3,6 @@
 ![Github Profile Watchers](https://komarev.com/ghpvc/?username=supercoolx&label=Profile%20views&color=0e75b6&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/supercoolx)
 ![GitHub User's stars](https://img.shields.io/github/stars/supercoolx)
-&nbsp;&nbsp;&nbsp;
-[![Skype](https://img.shields.io/badge/-Skype-555555?style=flat&logo=skype)](https://join.skype.com/invite/y0Nym2bDESqx)
-[![Discord](https://img.shields.io/badge/-Discord-555555?style=flat&logo=discord)](https://discordapp.com/users/1149719858146189392)
 
 ---
 
